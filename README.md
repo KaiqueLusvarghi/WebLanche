@@ -1,4 +1,4 @@
-# Projeto MVC com ASP .NET Core (Em Desenvolvimento...)
+# Projeto MVC com ASP .NET Core
 
 Este projeto utiliza o padrão MVC (Model-View-Controller) com ASP .NET Core para desenvolvimento web. Ele inclui várias funcionalidades e tecnologias para oferecer uma aplicação completa e dinâmica.
 
@@ -37,7 +37,28 @@ Este projeto utiliza o padrão MVC (Model-View-Controller) com ASP .NET Core par
      dotnet run
      ```
 
-3. **Contribuição**:
-   - Sinta-se à vontade para contribuir com novas funcionalidades ou melhorias. Abra um pull request e vamos revisar juntos!
+## Em Desenvolvimento
 
+Atualmente, o projeto está em fase de desenvolvimento ativo. Abaixo estão alguns dos pontos em andamento:
 
+- Implementação da funcionalidade de carrinho de compras.
+- Ajustes finos na segurança e autenticação.
+- Melhorias na interface do usuário com novos componentes Vue.js.
+- Refatoração de consultas LINQ para otimização de desempenho.
+- Adição de mais gráficos interativos usando Chart.js.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias gerais. Para contribuir:
+
+1. Faça um fork do repositório e clone-o localmente.
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
+3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
+4. Push para a branch (`git push origin feature/nova-feature`).
+5. Crie um novo Pull Request.
+
+Vamos revisar juntos e discutir as melhorias propostas!
+
+## Licença
+
+Este projeto está licenciado sob a MIT License. Vej
