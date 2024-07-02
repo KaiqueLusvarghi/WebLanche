@@ -1,4 +1,4 @@
-# Projeto MVC com ASP .NET Core (EM Desenvolvimento)
+# Projeto MVC com ASP .NET Core (Em Desenvolvimento...)
 
 Este projeto utiliza o padrão MVC (Model-View-Controller) com ASP .NET Core para desenvolvimento web. Ele inclui várias funcionalidades e tecnologias para oferecer uma aplicação completa e dinâmica.
 
