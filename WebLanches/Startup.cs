@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebLanches.Context;
+using WebLanches.Repositories;
+using WebLanches.Repositories.Interfaces;
 
 namespace WebLanches;
 public class Startup
@@ -15,6 +17,12 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+        
+        services.AddTransient<ILancheRepository,LancheRepository>();
+        services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+
+
         services.AddControllersWithViews();
     }
 
