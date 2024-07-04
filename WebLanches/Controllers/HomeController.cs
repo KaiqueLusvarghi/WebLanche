@@ -9,6 +9,7 @@ namespace WebLanches.Controllers
     
         public IActionResult Index()
         {
+            TempData["Nome"] = "Lusvarghi"; 
             return View();
         }
 

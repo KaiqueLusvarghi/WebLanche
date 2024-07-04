@@ -20,3 +20,16 @@ html {
 body {
   margin-bottom: 60px;
 }
+.carousel {
+    width: 90%; /* ou um valor específico, como 800px */
+    height: 50%; /* ou outro valor que você achar adequado */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .carousel img {
+        width: 400px;
+        height: 400px;
+        object-fit: cover; /* para manter a proporção das imagens */
+    }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G9GgApJsOX+gzwNUI1xHVjg0xomksGOfWl49uJA2euo=",
+  "Hash": "5T4dQjBdkkfsKdqVPQCHflw31QRv5HBmR6mRZPCIuOs=",
   "Source": "WebLanches",
   "BasePath": "_content/WebLanches",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel1.jpeg",
+      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel1.jpg",
       "SourceId": "WebLanches",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\",
       "BasePath": "_content/WebLanches",
-      "RelativePath": "images/carousel1.jpeg",
+      "RelativePath": "images/carousel1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\carousel1.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\carousel1.jpg"
     },
     {
-      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel2.jpeg",
+      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel2.jpg",
       "SourceId": "WebLanches",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\",
       "BasePath": "_content/WebLanches",
-      "RelativePath": "images/carousel2.jpeg",
+      "RelativePath": "images/carousel2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\carousel2.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\carousel2.jpg"
     },
     {
-      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel3.jpeg",
+      "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel3.jpg",
       "SourceId": "WebLanches",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\",
       "BasePath": "_content/WebLanches",
-      "RelativePath": "images/carousel3.jpeg",
+      "RelativePath": "images/carousel3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\carousel3.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\carousel3.jpg"
     },
     {
       "Identity": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\js\\site.js",
