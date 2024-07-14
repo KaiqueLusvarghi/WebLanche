@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebLanches\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebLanches\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:32:07.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LancheController.cs",
-              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Controllers\\LancheController.cs",
-              "RelativeDocumentMoniker": "WebLanches\\Controllers\\LancheController.cs",
-              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Controllers\\LancheController.cs",
-              "RelativeToolTip": "WebLanches\\Controllers\\LancheController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:13:56.677Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,9 +32,22 @@
               "RelativeDocumentMoniker": "WebLanches\\Views\\Lanche\\List.cshtml",
               "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Lanche\\List.cshtml",
               "RelativeToolTip": "WebLanches\\Views\\Lanche\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T21:15:33.7Z",
+              "WhenOpened": "2024-07-14T16:20:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LanchesResumo.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:45:08.108Z",
               "EditorCaption": ""
             }
           ]

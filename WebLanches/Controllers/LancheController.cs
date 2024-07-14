@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebLanches.Repositories.Interfaces;
+using WebLanches.ViewModels;
 
 namespace WebLanches.Controllers
 {
@@ -14,16 +15,13 @@ namespace WebLanches.Controllers
 
         public IActionResult List()
         {
-            ViewData["Titulo"] = "Todos os lanches";
-            ViewData["Data"] = DateTime.Now;
+            /*var lanches = _lancheRepository.Lanches;
+            return View(lanches);*/
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _lancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
 
-            var lanches = _lancheRepository.Lanches;
-            var totalLanches = lanches.Count();
-
-            ViewBag.Total = "Total De Lanches";
-            ViewBag.TotalLanches = totalLanches; ;
-
-            return View(lanches);
+            return View(lanchesListViewModel);
         }
     }
 }
