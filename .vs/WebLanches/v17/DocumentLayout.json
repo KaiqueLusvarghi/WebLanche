@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DevC#\\WebLanches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanches\\weblanches\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Lanche\\List.cshtml",
-              "RelativeDocumentMoniker": "WebLanches\\Views\\Lanche\\List.cshtml",
-              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Lanche\\List.cshtml",
-              "RelativeToolTip": "WebLanches\\Views\\Lanche\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-14T16:20:44.683Z",
+              "Title": "CarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Models\\CarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "WebLanches\\Models\\CarrinhoCompra.cs",
+              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Models\\CarrinhoCompra.cs",
+              "RelativeToolTip": "WebLanches\\Models\\CarrinhoCompra.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:26:27.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LanchesResumo.cshtml",
-              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
-              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
-              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
-              "RelativeToolTip": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-14T22:45:08.108Z",
+              "Title": "CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\DevC#\\WebLanches\\WebLanches\\Models\\CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "WebLanches\\Models\\CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\DevC#\\WebLanches\\WebLanches\\Models\\CarrinhoCompraItem.cs",
+              "RelativeToolTip": "WebLanches\\Models\\CarrinhoCompraItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:24:39.549Z",
               "EditorCaption": ""
             }
           ]
