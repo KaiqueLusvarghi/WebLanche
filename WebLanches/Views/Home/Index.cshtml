@@ -1,3 +1,14 @@
-﻿<h1> View Index</h1>
+﻿@model HomeViewModel
 @*Partial serve para exibir uma view dentro de outra*@
 <partial name="_Carousel"/>
+
+<h2>Os Lanches mais escolhidos pelos clientes ...</h2>
+<h4> Está afim de um lanche saboroso???</h4>
+
+<div class="row">
+    @foreach(var lanche in Model.LanchesPreferidos)
+    {
+        <partial name="_LanchesResumo" for="@lanche"/>
+    }
+
+</div>

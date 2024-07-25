@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\Icone_Lixeira.png",
+      "PackagePath": "staticwebassets\\images\\Icone_Lixeira.png"
+    },
+    {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carinnhoCompra.png",
+      "PackagePath": "staticwebassets\\images\\carinnhoCompra.png"
+    },
+    {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel1.jpg",
       "PackagePath": "staticwebassets\\images\\carousel1.jpg"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\carousel3.jpg",
       "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
     },
     {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\js\\site.js",

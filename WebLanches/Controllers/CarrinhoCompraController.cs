@@ -28,6 +28,7 @@ namespace WebLanches.Controllers
             };
             return View(carrinhoCompraVM);
         }
+
         public IActionResult AdcionarItemNoCarrinhoCompra(int lancheid)
         {
             var lancheSelecionado = _lancheRepository.Lanches.FirstOrDefault(p=>p.LancheId == lancheid);
@@ -40,7 +41,7 @@ namespace WebLanches.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult RemoverItemDoCarrinho (int lancheId)
+        public IActionResult RemoverItemDoCarrinhoCompra (int lancheId)
         {
             var lancheSelecionado = _lancheRepository.Lanches.FirstOrDefault(p=>p.LancheId==lancheId);
 
