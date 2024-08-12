@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\Icone_Lixeira.png",
       "PackagePath": "staticwebassets\\images\\Icone_Lixeira.png"
     },
@@ -35,6 +43,14 @@
     {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\cart-5-16.ico",
       "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
       "Id": "C:\\DevC#\\WebLanches\\WebLanches\\wwwroot\\js\\site.js",
