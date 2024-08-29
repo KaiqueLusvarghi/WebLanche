@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevC#\\WebLanches\\WebLanches\\WebLanches.csproj": {}
+    "C:\\DevC#\\WebLanche\\WebLanches\\WebLanches.csproj": {}
   },
   "projects": {
-    "C:\\DevC#\\WebLanches\\WebLanches\\WebLanches.csproj": {
+    "C:\\DevC#\\WebLanche\\WebLanches\\WebLanches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevC#\\WebLanches\\WebLanches\\WebLanches.csproj",
+        "projectUniqueName": "C:\\DevC#\\WebLanche\\WebLanches\\WebLanches.csproj",
         "projectName": "WebLanches",
-        "projectPath": "C:\\DevC#\\WebLanches\\WebLanches\\WebLanches.csproj",
-        "packagesPath": "C:\\Users\\kaiqu\\.nuget\\packages\\",
-        "outputPath": "C:\\DevC#\\WebLanches\\WebLanches\\obj\\",
+        "projectPath": "C:\\DevC#\\WebLanche\\WebLanches\\WebLanches.csproj",
+        "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
+        "outputPath": "C:\\DevC#\\WebLanche\\WebLanches\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kaiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
