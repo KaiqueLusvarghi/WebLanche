@@ -112,4 +112,9 @@ public class CarrinhoCompra
        
         return total;
     }
+
+    internal List<CarrinhoCompraItem> GetCarrinhoCompraItens()
+    {
+        throw new NotImplementedException();
+    }
 }

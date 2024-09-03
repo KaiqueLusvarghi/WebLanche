@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\DevC#\\WebLanche\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\shared\\components\\categoriamenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\components\\categoriamenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\shared\\components\\carrinhocompraresumo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\components\\carrinhocompraresumo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\lanche\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\lanche\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|c:\\devc#\\weblanche\\weblanches\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B2F64-4F2A-42CA-B034-D0193F7C3081}|WebLanches\\WebLanches.csproj|solutionrelative:weblanches\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebLanches\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T00:45:45.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-              "RelativeToolTip": "WebLanches\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\CarrinhoCompra\\Index.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\CarrinhoCompra\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T00:31:59.422Z",
+              "WhenOpened": "2024-09-03T00:17:11.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T00:13:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrinhoCompraController.cs",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeDocumentMoniker": "WebLanches\\Controllers\\CarrinhoCompraController.cs",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeToolTip": "WebLanches\\Controllers\\CarrinhoCompraController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:09:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Lanche\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\Lanche\\Details.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Lanche\\Details.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\Lanche\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:47:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Lanche\\List.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\Lanche\\List.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Lanche\\List.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\Lanche\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:44:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LancheController.cs",
               "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Controllers\\LancheController.cs",
               "RelativeDocumentMoniker": "WebLanches\\Controllers\\LancheController.cs",
               "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Controllers\\LancheController.cs",
               "RelativeToolTip": "WebLanches\\Controllers\\LancheController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T23:48:26.862Z",
+              "WhenOpened": "2024-09-02T23:39:49.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LanchesResumo.cshtml",
+              "DocumentMoniker": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeDocumentMoniker": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ToolTip": "C:\\DevC#\\WebLanche\\WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeToolTip": "WebLanches\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:33:25.035Z",
               "EditorCaption": ""
             }
           ]
