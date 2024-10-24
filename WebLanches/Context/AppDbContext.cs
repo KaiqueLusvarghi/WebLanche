@@ -13,6 +13,7 @@ public class AppDbContext : DbContext
     public DbSet<Lanche> Lanches{ get; set; }
     public DbSet<CarrinhoCompraItem> CarrinhoCompraItens { get; set; }
 
-
+    public DbSet<Pedido> Pedidos { get; set; } 
+    public DbSet<PedidoDetalhe> PedidosDetalhes { get; set; }
 
 }
