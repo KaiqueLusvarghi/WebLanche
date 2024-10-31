@@ -20,11 +20,12 @@ public class AccountController : Controller
     {
         return View(new LoginViewModel()
         {
-            Returnurl = returnUrl
+            ReturnUrl = returnUrl
         });
     }
-    [HttpPost]
 
+    [HttpPost]
+    [ValidateAntiForgeryToken]
     public async Task<IActionResult> Login (LoginViewModel loginVM)
     {
         if(!ModelState.IsValid)
@@ -37,14 +38,47 @@ public class AccountController : Controller
             var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, false, false);
             if (result.Succeeded) 
             {
-                if (string.IsNullOrEmpty(loginVM.Returnurl)) 
+                if (string.IsNullOrEmpty(loginVM.ReturnUrl)) 
                 {
                     return RedirectToAction("Index", "Home");
                 }
-                return Redirect(loginVM.Returnurl);
+                return Redirect(loginVM.ReturnUrl);
             }
         }
         ModelState.AddModelError("", "Falha ao realizar o login!! ");
         return View(loginVM);
+    }
+    public IActionResult Register()
+    {
+        return View();
+    }
+    [HttpPost]
+    public async Task<IActionResult> Register(LoginViewModel registroVm)
+    {
+        if (ModelState.IsValid)
+        {
+            var user = new IdentityUser { UserName = registroVm.UserName };
+            var result = await _userManager.CreateAsync(user, registroVm.Password);
+
+            if (result.Succeeded) 
+            {
+               // await _signInManager.SignInAsync(user,isPersistent: false);
+                return RedirectToAction("Login", "Account");
+            }
+            else 
+            {
+                this.ModelState.AddModelError("Registro", "Falha ao registrar o usuário");
+            }
+        }
+        return View(registroVm);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Logout()
+    {
+        HttpContext.Session.Clear();
+        HttpContext.User = null;
+        await _signInManager.SignOutAsync();
+        return RedirectToAction("Index", "Home");  
     }
 }

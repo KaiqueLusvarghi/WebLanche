@@ -14,6 +14,6 @@ namespace WebLanches.ViewModels
         public string Password { get; set; }
 
 
-        public string Returnurl { get; set; }
+        public string ReturnUrl { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebLanches.Models;
 using WebLanches.Repositories.Interfaces;
 
@@ -14,11 +15,13 @@ namespace WebLanches.Controllers
             _PedidoRepository = pedidoRepository;
             _carrinhoCompra = carrinhoCompra;
         }
+        [Authorize]
         [HttpGet]
         public IActionResult Checkout()
         { 
             return View();
         }
+        [Authorize]
         [HttpPost]
         public IActionResult Checkout(Pedido pedido) 
         {

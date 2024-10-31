@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\images\\Icone_Lixeira.png"
     },
     {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\adminarea.png",
+      "PackagePath": "staticwebassets\\images\\adminarea.png"
+    },
+    {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\carinnhoCompra.png",
       "PackagePath": "staticwebassets\\images\\carinnhoCompra.png"
     },
@@ -47,6 +51,14 @@
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\loggin.jpeg",
+      "PackagePath": "staticwebassets\\images\\loggin.jpeg"
+    },
+    {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\logginFeito.png",
+      "PackagePath": "staticwebassets\\images\\logginFeito.png"
     },
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\phone-app-icon.png",
