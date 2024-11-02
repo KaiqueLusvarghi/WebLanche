@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\AccessDenied.jpeg",
+      "PackagePath": "staticwebassets\\images\\AccessDenied.jpeg"
+    },
+    {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\Envelope-icon24.png",
       "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
     },

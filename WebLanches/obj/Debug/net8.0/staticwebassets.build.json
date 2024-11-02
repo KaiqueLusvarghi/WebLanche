@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HB0+fRUQMi7VjFHpXUk/9dgUaay03p96lyxyt9EwCnE=",
+  "Hash": "e7+qldlblvg09EphMPUyYJ2C5opyMPBFXhrIEUq7tZQ=",
   "Source": "WebLanches",
   "BasePath": "_content/WebLanches",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\AccessDenied.jpeg",
+      "SourceId": "WebLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\",
+      "BasePath": "_content/WebLanches",
+      "RelativePath": "images/AccessDenied.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\AccessDenied.jpeg"
     },
     {
       "Identity": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\adminarea.png",
