@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\AccessDenied.jpeg"
     },
     {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\CocaLata.jpeg",
+      "PackagePath": "staticwebassets\\images\\CocaLata.jpeg"
+    },
+    {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\Envelope-icon24.png",
       "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
     },
@@ -53,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
     },
     {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\cheese_burguer.jpeg",
+      "PackagePath": "staticwebassets\\images\\cheese_burguer.jpeg"
+    },
+    {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
@@ -67,6 +75,10 @@
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\porcao_camarao.jpeg",
+      "PackagePath": "staticwebassets\\images\\porcao_camarao.jpeg"
     },
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\js\\site.js",

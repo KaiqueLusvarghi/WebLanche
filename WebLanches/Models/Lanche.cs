@@ -46,6 +46,7 @@ public class Lanche
     [Display(Name = "Estoque")]
     public bool EmEstoque { get; set; }
 
+    [Display(Name ="Categorias")]
    //chave estrangeira
     public int CategoriaId { get; set; }
 
