@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ReflectionIT.Mvc.Paging;
+using WebLanches.Areas.Admin.Services;
 using WebLanches.Context;
 using WebLanches.Models;
 using WebLanches.Repositories;
@@ -30,6 +31,7 @@ public class Startup
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository,PedidoRepository>();
         services.AddScoped<ISeedUserRoleInitial,SeedUserRoleInitial>();
+        services.AddScoped<RelatorioVendasService>();
 
         services.AddAuthorization(options =>
         {
