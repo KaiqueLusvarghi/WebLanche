@@ -81,6 +81,14 @@
       "PackagePath": "staticwebassets\\images\\porcao_camarao.jpeg"
     },
     {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\images\\visualizar1.png",
+      "PackagePath": "staticwebassets\\images\\visualizar1.png"
+    },
+    {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
