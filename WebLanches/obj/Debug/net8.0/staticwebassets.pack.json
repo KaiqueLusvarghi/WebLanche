@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebLanches.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebLanches.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WebLanches.k8i3v7c5vo.bundle.scp.css"
     },
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\css\\site.css",
@@ -319,6 +319,10 @@
     {
       "Id": "C:\\Dev C#\\WebLanches\\WebLanches\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebLanches.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebLanches.Microsoft.AspNetCore.StaticWebAssets.props",
