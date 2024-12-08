@@ -1,5 +1,9 @@
 ﻿using WebLanches.Context;
 using WebLanches.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 
 namespace WebLanches.Areas.Admin.Services
 {
@@ -14,12 +18,12 @@ namespace WebLanches.Areas.Admin.Services
 
         public List<LancheGrafico> GetVendasLanche(int dias = 360) 
         {
-            var data = DateTime.Now.AddDays(-360);
+            var data = DateTime.Now.AddDays(-dias);
 
             var lanches = (from pd in context.PedidosDetalhes
                            join l in context.Lanches on pd.LancheId equals l.LancheId
                            where pd.Pedido.PedidoEnviado >= data
-                           group pd by new { pd.LancheId, l.Nome, pd.Quantidade }
+                           group pd by new { pd.LancheId, l.Nome }
                            into g
                            select new
                            {
