@@ -1081,3 +1081,11 @@ C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\runtimes\browser\lib\net8.0\Sys
 C:\Dev C#\WebLanches\WebLanches\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Dev C#\WebLanches\WebLanches\obj\Debug\net8.0\staticwebassets\msbuild.WebLanches.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Dev C#\WebLanches\WebLanches\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev C#\WebLanches\WebLanches\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

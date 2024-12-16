@@ -25,7 +25,7 @@ namespace WebLanches.Areas.Admin.Services
 
             if (maxDate.HasValue)
             {
-                resultado = resultado.Where(x => x.PedidoEnviado >= maxDate.Value);
+                resultado = resultado.Where(x => x.PedidoEnviado <= maxDate.Value);
 
             }
 

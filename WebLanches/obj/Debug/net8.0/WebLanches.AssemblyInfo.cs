@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebLanches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc4fc0648425872c0c5abb62d35dfe408ef05c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6400f58532098d2a475da263343245f4838e78ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebLanches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebLanches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
