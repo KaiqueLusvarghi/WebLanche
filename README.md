@@ -1,64 +1,68 @@
-# Projeto MVC com ASP .NET Core
+# 🍔 Site WebLanches- ASP.NET Core MVC  
 
-Este projeto utiliza o padrão MVC (Model-View-Controller) com ASP .NET Core para desenvolvimento web. Ele inclui várias funcionalidades e tecnologias para oferecer uma aplicação completa e dinâmica.
+Bem-vindo ao repositório do **WebLanches**, um projeto desenvolvido com **ASP.NET Core MVC**. Este é um sistema completo de vendas que simula um e-commerce focado em lanches, permitindo que usuários naveguem, adicionem produtos ao carrinho e finalizem pedidos.  
 
-## Funcionalidades Implementadas
+## 🚀 Funcionalidades  
+- 🛒 **Carrinho de Compras**: Gerenciado por sessões, permitindo adicionar e remover itens.  
+- 🔐 **Autenticação e Autorização**: Implementado com **ASP.NET Core Identity** (Cadastro, Login e Logout).  
+- 🔎 **Filtros e Paginação**: Facilita a busca de lanches com paginação dinâmica.  
+- 📊 **Relatórios e Gráficos**: Relatórios PDF gerados com **FastReport OpenSource** e gráficos dinâmicos utilizando **GoogleChart**.  
+- 📦 **Gestão de Produtos e Categorias**: Integração com banco de dados para exibir e gerenciar lanches e categorias.  
 
-- **Padrão MVC**: Arquitetura utilizada para separar o modelo de domínio, a lógica de negócios e a interface do usuário.
-- **Entity Framework Core**: Utilizado para definir e mapear as entidades do modelo de domínio e realizar migrações para o banco de dados utilizando a abordagem Code-First.
-- **Data Annotations**: Usado para validação e configuração das entidades diretamente no modelo.
-- **Padrão Repository**: Implementado para isolar a lógica de acesso aos dados.
-- **Padrão ViewModel**: Utilizado para modelar os dados específicos das Views.
-- **Session**: Implementado para gerenciar um carrinho de compras na aplicação.
-- **ASP .NET Core Identity**: Implementação de segurança para autenticação de usuários com Login, Registro e Logout.
-- **Partial Views**: Criadas para reutilização de componentes visuais.
-- **Rotas Personalizadas**: Definidas para facilitar a navegação dentro da aplicação.
-- **View Components**: Utilizados para criar componentes reutilizáveis em Views.
-- **Paginação e Filtro de Dados**: Implementados para melhorar a experiência do usuário ao lidar com grandes conjuntos de dados.
-- **Relatórios com LINQ**: Criados para apresentar informações específicas da aplicação.
-- **Gráficos com GoogleChart**: Utilizados para visualização de dados de forma gráfica.
-- **Relatórios em PDF com FastReport OpenSource**: Implementados para exportar dados importantes em formato PDF.
+## 🛠️ Tecnologias Utilizadas  
+- **ASP.NET Core MVC**  
+- **Entity Framework Core** (Code-First Migrations)  
+- **SQL Server**  
+- **LINQ**  
+- **Data Annotations** para validação e configuração das entidades  
+- **FastReport OpenSource** para geração de relatórios PDF  
+- **GoogleChart** para gráficos dinâmicos  
+- **Bootstrap** para estilização  
 
-## Configuração do Projeto
+## 📂 Estrutura do Projeto  
+- `Models`: Contém as entidades do domínio, como **Lanche**, **Categoria** e **Pedido**.  
+- `Repositories`: Implementação do padrão Repository para acesso ao banco de dados.  
+- `Controllers`: Controladores responsáveis pelo fluxo de dados entre o back-end e as views.  
+- `Views`: Contém as interfaces do usuário com suporte a **Partial Views** e **View Components**.  
+- `wwwroot`: Arquivos estáticos como imagens, scripts e CSS.  
 
-1. **Requisitos**:
-   - ASP .NET Core SDK
-   - SQL Server Express
+## ⚙️ Como Executar o Projeto  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/KaiqueLusvarghi/WebLanche.git
+Navegue até o diretório do projeto:
+bash
+Copiar código
+cd nome-do-repositorio
+Configure a conexão com o banco de dados no arquivo appsettings.json.
+Aplique as migrations para criar o banco de dados:
+bash
+Copiar código
+dotnet ef database update
+Execute o projeto:
+bash
+Copiar código
+dotnet run
 
-2. **Instalação e Execução**:
-   - Clone este repositório.
-   - Configure a string de conexão com seu banco de dados no arquivo `appsettings.json`.
-   - Execute as migrações para criar o banco de dados e suas tabelas:
-     ```
-     dotnet ef database update
-     ```
-   - Execute o projeto:
-     ```
-     dotnet run
-     ```
+📖 Aprendizados
+Durante o desenvolvimento deste projeto, aprimorei conhecimentos em:
 
-## Em Desenvolvimento
+Estruturação de projetos com o padrão MVC.
+Utilização do Entity Framework Core para mapeamento de dados.
+Boas práticas de programação, como SOLID e Clean Code.
+Implementação de segurança com ASP.NET Core Identity.
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
 
-Atualmente, o projeto está em fase de desenvolvimento ativo. Abaixo estão alguns dos pontos em andamento:
+📜 Licença
+Este projeto está licenciado sob a MIT License.
 
-- Implementação da funcionalidade de carrinho de compras.
-- Ajustes finos na segurança e autenticação.
-- Melhorias na interface do usuário com novos componentes Vue.js.
-- Refatoração de consultas LINQ para otimização de desempenho.
-- Adição de mais gráficos interativos usando Chart.js.
+🌟 Agradecimentos
+Este projeto foi desenvolvido como parte do curso ASP.NET Core MVC - Criando um Site do Zero na Udemy.
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias gerais. Para contribuir:
 
-1. Faça um fork do repositório e clone-o localmente.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
-4. Push para a branch (`git push origin feature/nova-feature`).
-5. Crie um novo Pull Request.
 
-Vamos revisar juntos e discutir as melhorias propostas!
 
-## Licença
 
-Este projeto está licenciado sob a MIT License. Vej
+
